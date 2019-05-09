@@ -1,4 +1,4 @@
-#!/bin/bash/python
+#!/usr/bin/env python
 
 file = open("Mediator.txt", "r")
 list = file.readlines()
